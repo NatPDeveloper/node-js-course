@@ -1,2 +1,2 @@
 # node-js-course
-Showcasing my progress in: https://www.udemy.com/nodejs-the-complete-guide/
+Showcasing my progress in the course: https://www.udemy.com/nodejs-the-complete-guide/
